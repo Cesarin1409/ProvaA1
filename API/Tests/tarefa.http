@@ -1,8 +1,8 @@
 ### Listar todas as tarefas
-GET http://localhost:5273/tarefas/listar
+GET http://localhost:5000/tarefas/listar
 
 ### Cadastrar uma nova tarefa
-POST http://localhost:5273/tarefas/cadastrar
+POST http://localhost:5000/tarefas/cadastrar
 Content-Type: application/json
 
 {
